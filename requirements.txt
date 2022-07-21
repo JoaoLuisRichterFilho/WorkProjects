@@ -1,0 +1,14 @@
+xlwt
+xlrd
+xlutils
+openpyxl
+mysql-connector-python
+pyautogui
+PyPDF2
+var_dump
+selenium
+Pillow
+pyinstaller
+BeautifulSoup4
+lxml
+html5lib
